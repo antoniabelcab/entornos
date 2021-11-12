@@ -9,6 +9,11 @@
   <body>
 
    <h1>Header</h1>
+   <?php
+      $base=200;
+      $altura=546;
+      echo 'La base es'.$base.'
+   ?>
 
    <img src="imagenes/increibles.png" width="100px"/>
 
